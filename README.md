@@ -4,6 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frityet&exclude_repo=frityet.github.io,Blog,wiki,CoDZombies-H3VR,MeatKit,WurstLink&theme=dark&hide=cmake,makefile,shaderlab,mathematica,hlsl)
 
-![Contributions](https://activity-graph.herokuapp.com/graph?username=frityet&theme=dark&hide_border=false&area=false)
+![Contributions](https://activity-graph.herokuapp.com/graph?username=frityet&theme=github&hide_border=false&area=false)
   
 </center>
